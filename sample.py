@@ -1,1 +1,1 @@
-print("I am a saample")
+print("I am a saample.")
